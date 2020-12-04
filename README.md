@@ -29,11 +29,12 @@
 <p align="left">
   💼 Ferramentas: </strong>
 <br>
+<img src="https://img.shields.io/badge/-Yarn-blue?style=flat&logo=Yarn&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Styles%20Components-ff69b4?style=flat&logo=styled-components&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Styles%20Components-ff69b4?style=flat&logo=Storybook&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Next.js-black?style=flat&logo=Next.js&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Cypress-inactive?style=flat&logo=Cypress&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Storybook-ff69b4?style=flat&logo=Storybook&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Strapi-blue?style=flat&logo=Strapi&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Apollo-blueviolet?style=flat&logo=Apollo%20GraphQL&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Jest-red?style=flat&logo=Jest&logoColor=ffffff">
