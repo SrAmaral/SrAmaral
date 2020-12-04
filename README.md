@@ -29,9 +29,9 @@
 <p align="left">
   💼 Ferramentas: </strong>
 <br>
-<img src="https://img.shields.io/badge/-Yarn-blue?style=flat&logo=Yarn&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Styles%20Components-ff69b4?style=flat&logo=styled-components&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=Yarn&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Styles%20Components-DB7093?style=flat&logo=styled-components&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Next.js-black?style=flat&logo=Next.js&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Cypress-inactive?style=flat&logo=Cypress&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Storybook-ff69b4?style=flat&logo=Storybook&logoColor=ffffff">
@@ -40,9 +40,9 @@
 <img src="https://img.shields.io/badge/-Jest-red?style=flat&logo=Jest&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Testing%20Library-inactive?style=flat&logo=Octopus%20Deploy&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-PostgreSQL-F29111?style=flat&logo=PostgreSQLl&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Node.js-336791?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
