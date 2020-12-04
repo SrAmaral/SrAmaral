@@ -7,7 +7,9 @@
   Sou formado em Design Digial, no entanto, atualmente estudo programação. Foco atingir uma exelencia Full Stack, para que assim possa desenvolver aplicações que somem no atual cenário da tecnológia.
 </p>
 <br>
+
 ![Eduardo Amaral's github stats](https://github-readme-stats.vercel.app/api?username=SrAmaral&show_icons=true&theme=dracula&hide=stars)
+
 <br>
 <br>
 <p align="left">
