@@ -57,7 +57,7 @@
 </p>
 <p align="left">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=edu.amaral8@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=edu.amaral8@gmail.com" /></a>
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-amaral-4a6272189/" /></a>
 </p>  
