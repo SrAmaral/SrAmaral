@@ -1,7 +1,9 @@
-## Olá 😃
+## Olá 😃, seja bem vindo!!!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
+<br>
+<br>
+<br>
 <p align="left"> 
   Meu nome é Eduardo Amaral, sou desenvolvedor e trabalho com <strong>Front-end e UI/UX Design</strong>.<br>
   Sou formado em Design Digial, no entanto, atualmente estudo programação. Foco atingir uma exelencia Full Stack, para que assim possa desenvolver aplicações que somem no atual cenário da tecnológia.
