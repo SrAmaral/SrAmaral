@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/-Testing%20Library-inactive?style=flat&logo=Octopus%20Deploy&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQLl&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=sqlite&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
